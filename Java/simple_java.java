@@ -8,6 +8,7 @@ class simple_java
         for(int i=0;i<10;i++)
         {
             System.out.println("Executing ten times...");
+            System.out.println("Update.....")
         }
 
     }
