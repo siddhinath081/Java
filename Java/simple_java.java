@@ -7,8 +7,7 @@ class simple_java
         System.out.println("Siddhinath kharade...");
         for(int i=0;i<10;i++)
         {
-            System.out.println("Executing ten times...");
-            System.out.println("Update.....");
+            System.out.println("Say happy birthday to me.");
         }
 
     }
